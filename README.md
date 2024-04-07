@@ -7,7 +7,7 @@ Hosted on streamlit.
 Download the file locally.
 Download ollama and Streamlit on your machine or run this command if you are on a windows machine:
 
-## pip install ollama stremlit
+## pip install ollama streamlit
 
 Then run the python file by calling the command:
 
